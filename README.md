@@ -2,13 +2,14 @@
 Check out my game [here](https://thepactan.github.io/AFishingGame/).
 
 ## About
-*under construction*
+A Fishing Game. Catch fish and collect points.
 
 ## How to Play
-*under construction*
+*Press A or D to move left or right.*
+*Hold and release Space to throw a lure.*
 
 ## Features
-*under construction*
+Under construction, still improving for more and better gameplay.
 
 ## Screenshots
 ![Screenshot 1](assets/screenshots/Screenshot_1.png)
