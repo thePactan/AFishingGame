@@ -14,3 +14,6 @@ Under construction, still improving for more and better gameplay.
 ## Screenshots
 ![Screenshot 1](assets/screenshots/Screenshot_1.png)
 ![Screenshot 2](assets/screenshots/Screenshot_2.png)
+
+## Extra
+My first game made for studying the Unity engine. Hope you enjoy!
