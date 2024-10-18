@@ -11,4 +11,5 @@ Check out my game [here](https://thepactan.github.io/AFishingGame/).
 *under construction*
 
 ## Screenshots
-*under construction*
+![Screenshot 1](assets/screenshots/Screenshot_1.png)
+![Screenshot 2](assets/screenshots/Screenshot_2.png)
